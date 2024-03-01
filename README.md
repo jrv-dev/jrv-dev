@@ -1,16 +1,22 @@
-### Hi there 👋
+# Johan Ramirez Vargas
+## Soy estudiante de 2do año de *ing en sistemas* en Ucateci vivo en la Republica Dominicana.
 
-<!--
-**jrv-dev/jrv-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me considero una persona Adaptable a las diferentes situaciones de la vida.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+| Comandos    | Descripcion|
+| ----------- | ----------- |
+| ls          | Mostrar directorios  |
+| cd          | Cambiar de directorios |
+|clear        | Limpiar consola |
+|rm           | Eliminar archivos |
+|echo         | Imprimir en pantalla |
+
+---
+
+| Alias       |  Significado |
+|-------------|---------------|
+|cl           | Limpiar consola |
+|mtv          | Mensaje de motivacion |
