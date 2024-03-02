@@ -12,7 +12,7 @@ Me considero una persona Adaptable a las diferentes situaciones de la vida.
 | cd          | Cambiar de directorios |
 |clear        | Limpiar consola |
 |rm           | Eliminar archivos |
-|echo         | Imprimir en pantalla |
+|echo         | Imprimir en cd |
 
 ---
 
